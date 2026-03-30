@@ -1,0 +1,13 @@
+Stay Safe Online: A Guide for Students
+               
+1. UPI PIN is for Sending Only: Never enter your UPI PIN to receive money; you only need it to send money or check your balance.  
+2. Verify 'Collect Requests': If you receive a payment request on an app like GPay or PhonePe from an unknown person, decline it immediately.  
+3. Enable Two-Factor Authentication (2FA): Use 2FA on your college email and social media accounts to add an extra layer of security beyond just a password.  
+4. Avoid Public Wi-Fi for Banking: Never log in to your bank account or perform UPI transactions while connected to free public Wi-Fi.  
+5. Check for 'HTTPS' and the Padlock: Before entering any personal details on a website, ensure the URL starts with https:// and shows a locked padlock icon.  
+6. Don't Click Suspicious Links: Be wary of shortened links in SMS or WhatsApp messages claiming you have won a prize or a "free" internship.  
+7. Keep Software Updated: Regularly update your phone's operating system and your banking apps to ensure you have the latest security patches.  
+8. Report Cybercrime Immediately (Mandatory): If you are a victim of a scam, call the National Helpline at 1930 or report it at [suspicious link removed].
+National Cyber Crime Portal (cybercrime.gov.in)
+Helpline: 1930
+
