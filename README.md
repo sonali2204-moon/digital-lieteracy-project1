@@ -1,8 +1,8 @@
 Student Digital Ambassador Portfolio
 CSE0001: Digital Literacy Project
 Student Information
-Name:SADIYA HASSAN
-Registration Number:25BAI10979
+Name:Sonali kumari
+Registration Number:25BAI11137
 Branch:B.Tech CSE(AIML)
 Batch: 2025-2029
 Project Overview
@@ -14,7 +14,7 @@ Tool Used: Canva
 deliverable:infographic
 📁 Task 2: Digital Presence
 Goal: Establish a professional identity on key platforms.
-Platforms: GitHub Profile, Kaggle, Stack Overflow
+Platforms: github, Kaggle, Stack Overflow
 Deliverable: Profile Screenshots
 📁 Task 3: Technical Skills & Data Collection
 Goal: Demonstrate coding proficiency and data gathering.
